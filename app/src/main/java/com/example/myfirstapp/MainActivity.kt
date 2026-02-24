@@ -33,7 +33,7 @@ class MainActivity : AppCompatActivity() {
         var name: String = "User"
         var age: Int = 0
         //constant valName: DataType = Value
-        val greet: String = "Hello, " // Cannot be changed
+        val greet: String = "Hello," // Cannot be changed
         //Logic
         //Button click
         btnConfirm.setOnClickListener()//tap the button
